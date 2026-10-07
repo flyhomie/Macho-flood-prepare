@@ -1,0 +1,6 @@
+{
+  "name": "Macho Flood Response & Disaster Early Warning",
+  "description": "Comprehensive flood disaster mitigation, live waterline gauge, early warning, offline routing, SOS reporting, country protocols (KE/TZ/UG/ET), mesh chat, local network discovery, and accessibility modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
